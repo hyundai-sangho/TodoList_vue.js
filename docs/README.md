@@ -1,6 +1,6 @@
 1. 작성일: 2022년 5월 24일(화)
 
-2. Vue.js 만드는 ToDoList
+2. 프로젝트명: Vue.js 만드는 ToDoList
 
 3. 출처: https://www.youtube.com/watch?v=0fhetXYrNSw
 
@@ -12,4 +12,4 @@
 
 7. ![default](screenshot.gif)
 
-8. 주소:
+8. 주소: https://hyundai-sangho.github.io/TodoList_vue.js/
